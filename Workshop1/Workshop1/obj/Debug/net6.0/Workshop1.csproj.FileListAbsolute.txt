@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.AssemblyInfo.cs
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/bin/Debug/net6.0/Workshop1
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/bin/Debug/net6.0/Workshop1.deps.json
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/bin/Debug/net6.0/Workshop1.runtimeconfig.json
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/bin/Debug/net6.0/Workshop1.dll
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/bin/Debug/net6.0/Workshop1.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.dll
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/refint/Workshop1.dll
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/Workshop1.genruntimeconfig.cache
+/Users/andrewchen/Projects/OOPCS/Workshop1/Workshop1/obj/Debug/net6.0/ref/Workshop1.dll
