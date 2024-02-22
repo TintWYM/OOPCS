@@ -1,6 +1,5 @@
 ﻿using System;
-namespace Workshop1
-{
+namespace Workshop1{
 	public class LED
 	{
         private bool isOn;
@@ -49,4 +48,3 @@ namespace Workshop1
         }
     }
 }
-

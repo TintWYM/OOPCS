@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Workshop1 { 
+namespace Workshop1{
     public class Program
     {
         public static void Main(string[] args)
@@ -20,7 +20,7 @@ namespace Workshop1 {
             Console.WriteLine("1. Turn on light");
             Console.WriteLine("2. Turn off light");
             Console.WriteLine("3. Exit");
-            Console.WriteLine("My choice: ");
+            Console.Write("My choice: ");
         }
 
         private static int getChoice() {
