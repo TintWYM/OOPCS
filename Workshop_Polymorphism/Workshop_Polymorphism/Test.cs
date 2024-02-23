@@ -83,7 +83,6 @@ namespace Workshop_Polymorphism
             Console.WriteLine("Print all accounts");
             bankbranch.PrintAccounts();
 
-
             Console.WriteLine();
             Console.WriteLine("Total deposit is: {0}", bankbranch.TotalDeposits());
             Console.WriteLine("Total interest paid is: {0}", bankbranch.TotalInterestPaid());
