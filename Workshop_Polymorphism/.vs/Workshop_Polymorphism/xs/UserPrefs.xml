@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8E6B53A1-5508-4EB7-B9B5-68491F006E35}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop_Polymorphism/Test.cs">
+    <Files>
+      <File FileName="Workshop_Polymorphism/CurrentAccount.cs" Line="1" Column="14" />
+      <File FileName="Workshop_Polymorphism/SavingAccount.cs" Line="1" Column="14" />
+      <File FileName="Workshop_Polymorphism/OverdraftAccount.cs" Line="1" Column="14" />
+      <File FileName="Workshop_Polymorphism/Test.cs" Line="96" Column="32" />
+      <File FileName="Workshop_Polymorphism/BankBranch.cs" Line="68" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workshop_Polymorphism" expanded="True">
+            <Node name="Workshop_Polymorphism" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Workshop__Polymorphism PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

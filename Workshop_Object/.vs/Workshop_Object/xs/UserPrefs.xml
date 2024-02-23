@@ -1,19 +1,18 @@
-﻿<Properties StartupConfiguration="{6CF5F60B-CE7F-4A07-B6B3-AFC43A16D70B}|Default">
+﻿<Properties StartupConfiguration="{2E1B7899-CC53-41E7-8833-1061706C8E27}|Default">
+  <MonoDevelop.Ide.ItemProperties.Workshop__Object PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop1/LED.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop_Object/Account.cs">
     <Files>
-      <File FileName="Workshop1/Program.cs" />
-      <File FileName="Workshop1/LED.cs" Line="49" Column="6" />
+      <File FileName="Workshop_Object/Program.cs" Line="3" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Workshop1" selected="True" />
+          <Node name="Workshop_Object" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Workshop1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

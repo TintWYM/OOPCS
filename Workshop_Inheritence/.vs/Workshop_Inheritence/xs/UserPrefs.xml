@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7A50D538-6301-4A6F-AC1B-8652B85B5A85}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop_Inheritence/Test.cs">
+    <Files>
+      <File FileName="Workshop_Inheritence/Program.cs" Line="15" Column="12" />
+      <File FileName="Workshop_Inheritence/CurrentAccount.cs" Line="10" Column="2" />
+      <File FileName="Workshop_Inheritence/OverdraftAccount.cs" Line="14" Column="23" />
+      <File FileName="Workshop_Inheritence/SavingAccount.cs" Line="6" Column="33" />
+      <File FileName="Workshop_Inheritence/Test.cs" Line="75" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workshop_Inheritence" expanded="True">
+            <Node name="Workshop_Inheritence">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Workshop__Inheritence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

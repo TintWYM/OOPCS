@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.AssemblyInfo.cs
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/bin/Debug/net7.0/Workshop_Inheritence
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/bin/Debug/net7.0/Workshop_Inheritence.deps.json
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/bin/Debug/net7.0/Workshop_Inheritence.runtimeconfig.json
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/bin/Debug/net7.0/Workshop_Inheritence.dll
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/bin/Debug/net7.0/Workshop_Inheritence.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.dll
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/refint/Workshop_Inheritence.dll
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/Workshop_Inheritence.genruntimeconfig.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Inheritence/Workshop_Inheritence/obj/Debug/net7.0/ref/Workshop_Inheritence.dll
