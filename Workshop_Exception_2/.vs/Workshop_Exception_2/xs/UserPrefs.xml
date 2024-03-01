@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{664D2601-46F7-4982-B163-458A94DAF148}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/Program.cs" relfile="Workshop_Exception_2/Program.cs" line="10" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop_Exception_2/Program.cs">
+    <Files>
+      <File FileName="Workshop_Exception_2/Program.cs" Line="14" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workshop_Exception_2" expanded="True">
+            <Node name="Workshop_Exception_2">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Workshop__Exception__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

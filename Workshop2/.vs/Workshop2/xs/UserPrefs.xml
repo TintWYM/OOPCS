@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2FF9CB8F-919E-4F14-9840-BBA8C294055A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Workshop2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop2/Compute.cs">
+    <Files>
+      <File FileName="Workshop2/Program.cs" Line="13" Column="46" />
+      <File FileName="Workshop2/Menu.cs" Line="50" Column="14" />
+      <File FileName="Workshop2/Compute.cs" Line="80" Column="10" />
+      <File FileName="Workshop2/MyList.cs" Line="1" Column="1" />
+      <File FileName="Workshop2/Helper.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workshop2" expanded="True">
+            <Node name="Workshop2" expanded="True">
+              <Node name="Compute.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

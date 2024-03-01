@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/bin/Debug/net7.0/Workshop_Exception_2
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/bin/Debug/net7.0/Workshop_Exception_2.deps.json
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/bin/Debug/net7.0/Workshop_Exception_2.runtimeconfig.json
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/bin/Debug/net7.0/Workshop_Exception_2.dll
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/bin/Debug/net7.0/Workshop_Exception_2.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.AssemblyInfo.cs
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.dll
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/refint/Workshop_Exception_2.dll
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/Workshop_Exception_2.genruntimeconfig.cache
+/Users/andrewchen/Projects/OOPCS/Workshop_Exception_2/Workshop_Exception_2/obj/Debug/net7.0/ref/Workshop_Exception_2.dll

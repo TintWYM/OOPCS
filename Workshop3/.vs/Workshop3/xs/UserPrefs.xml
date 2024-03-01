@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BE5A747A-8EF5-4582-A008-3404FC2E43FE}|Default">
+  <MonoDevelop.Ide.ItemProperties.Workshop3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop3/Program.cs">
+    <Files>
+      <File FileName="Workshop3/Program.cs" Line="24" Column="55" />
+      <File FileName="Workshop3/Rectangle.cs" Line="29" Column="6" />
+      <File FileName="Workshop3/IShape.cs" Line="10" Column="2" />
+      <File FileName="Workshop3/Circle.cs" Line="27" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Workshop3" expanded="True">
+            <Node name="Workshop3" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.AssemblyInfo.cs
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/bin/Debug/net7.0/Workshop3
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/bin/Debug/net7.0/Workshop3.deps.json
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/bin/Debug/net7.0/Workshop3.runtimeconfig.json
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/bin/Debug/net7.0/Workshop3.dll
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/bin/Debug/net7.0/Workshop3.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.dll
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/refint/Workshop3.dll
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/Workshop3.genruntimeconfig.cache
+/Users/andrewchen/Projects/OOPCS/Workshop3/Workshop3/obj/Debug/net7.0/ref/Workshop3.dll

@@ -1,0 +1,15 @@
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/bin/Debug/net7.0/Workshop2
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/bin/Debug/net7.0/Workshop2.deps.json
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/bin/Debug/net7.0/Workshop2.runtimeconfig.json
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/bin/Debug/net7.0/Workshop2.dll
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/bin/Debug/net7.0/Workshop2.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.csproj.AssemblyReference.cache
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.AssemblyInfoInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.AssemblyInfo.cs
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.csproj.CoreCompileInputs.cache
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.dll
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/refint/Workshop2.dll
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.pdb
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/Workshop2.genruntimeconfig.cache
+/Users/andrewchen/Projects/OOPCS/Workshop2/Workshop2/obj/Debug/net7.0/ref/Workshop2.dll
